@@ -1,4 +1,8 @@
 hello-world
 ===========
 
-Just a starting repository.
+A few things interesting to me:
+linguistics, 
+ukulele playing, 
+physics, 
+economics.
